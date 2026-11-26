@@ -1,0 +1,9 @@
+{
+  "embedding_model": "nvidia/nemotron-3.5-embed-8b:free",
+  "files": {
+    "Digital_Lab_Manual_CSE 2026-27 N.Raju.pdf": {
+      "chunks": 75,
+      "indexed_at": "2026-11-26 10:04 UTC"
+    }
+  }
+}
